@@ -30,7 +30,7 @@ jobs:
           git add -A
           
           arr[0]="WinRAR"
-          arr[1]="WinRAR"
+          arr[1]="WinRARC"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
